@@ -157,15 +157,6 @@ section.home {
   flex-direction: column;
   transform: translate(0, -65px);
 }
-
-/* .home .home-box .content h5 {
-    text-transform: uppercase;
-    color: var(--white-color);
-    font-size: .9rem;
-    font-weight: 400;
-    margin-bottom: 2rem;
-} */
-
 .home .home-box .content h1 {
   font-size: 4rem;
   max-width: 50rem;
